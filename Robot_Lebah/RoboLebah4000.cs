@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Robot_Lebah
 {
-    class RoboLebah4000 :Robot, IPekerja
+    class RoboLebah4000 :Robot
     {
         public string Kerjaan
         {

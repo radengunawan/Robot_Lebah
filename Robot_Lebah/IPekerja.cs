@@ -6,5 +6,7 @@ namespace Robot_Lebah
 {
     interface IPekerja
     {
+        string Kerjaan { get; }
+        void KerjaanSelanjutnya();
     }
 }
